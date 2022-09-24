@@ -1,0 +1,65 @@
+html {
+    background-image: url(https://images2.alphacoders.com/474/474157.jpg);
+}
+
+body {
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+header{
+    display: block;
+    padding-left: 320px;
+}
+
+.container {
+    background-color: #3271a8;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 700px;
+    border: 4px solid #217d9c;
+    border-radius: 5px 30px;
+    text-align: center;
+
+}
+
+.item {
+    font-family: 'PT Serif', serif;
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1,
+p {
+    color: #ffffff;
+}
+
+img{
+    width: 300px;
+    float: left;
+    margin-right: 100px;
+}
+
+.eu{
+    height: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hobbies{
+    height: 400px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+
+
+
+
+input {
+    width: 200px;
+    height: 25px;
+}
